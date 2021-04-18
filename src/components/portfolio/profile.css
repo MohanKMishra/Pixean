@@ -1,0 +1,99 @@
+.rounded-circle {
+  height: 140px;
+  width: 140px;
+  background-color: #ffffff;
+  margin-top: -70px;
+  box-shadow: 8px 8px 8px #ccc;
+}
+.name_user {
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 30px;
+  color:black;
+}
+.user_location {
+  color: #7da4fa;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 0 20px;
+}
+.about {
+  background-color: #ffffff;
+  width: 340px;
+  margin: 15px;
+  border-radius: 15px;
+  margin-left: -20px;
+}
+.about h2 {
+  text-align: left;
+  padding: 20px;
+  font-size: 20px;
+  color:black;
+}
+.about p {
+  padding: 20px;
+  margin-top: -30px;
+  text-align: left;
+  text-align: justify;
+}
+.camera_logo,
+.lens_logo {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: flex-start;
+  padding-left: 20px;
+}
+
+.camera_det,
+.pro_view {
+  text-align: left;
+  font-size: 19px;
+  padding-left: 20px;
+  margin-top: 2px;
+}
+.review,
+.rating {
+  text-align: left;
+  font-size: 28px;
+  padding-left: 20px;
+  margin-top: 11px;
+  font-weight: bold;
+}
+
+.rating_view {
+  text-align: left;
+  font-size: 16px;
+  padding-left: 20px;
+  width: 200px;
+}
+
+.icons {
+  text-align: left;
+  font-size: 24px;
+  padding-left: 22px;
+}
+.social {
+  text-align: left;
+  font-size: 15px;
+  padding-left: 22px;
+}
+.logo {
+  text-align: left;
+  font-size: 24px;
+  padding-left: 22px;
+}
+.link {
+  text-align: left;
+  font-size: 14px;
+  padding-bottom: 40px;
+  padding-left: 12px;
+  /* width: 220px; */
+}
+.hr {
+  border-bottom: 1px solid #7ca4fc;
+  width: 205px;
+}
+.icon1 {
+  margin: 4px;
+}

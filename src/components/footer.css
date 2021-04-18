@@ -1,0 +1,21 @@
+.footer {
+  background-color:#3b3b3b;
+  /* height: 100px; */
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-width: 100%;
+}
+
+.col {
+  color: white;
+  padding-bottom: 3 0px;
+}
+.h2, h2 {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+}
+.footer_wrapper h2{
+  padding-top: 20px ;
+  padding-bottom: 20px ;
+}

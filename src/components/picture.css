@@ -1,0 +1,14 @@
+.picture_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  text-align: center;
+}
+.gallary {
+  margin: 5px;
+  /* margin-top: 20px; */
+  width: 130px;
+  height: 130px;
+  border-radius: 10px;
+  /* margin-left: -20px; */
+}

@@ -1,0 +1,44 @@
+.img_wrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 20px;
+  margin: 20px;
+}
+.img_wrapper img {
+  width: 250px;
+  height: 200px;
+  border-radius: 20px;
+  object-fit: fill;
+  /* margin: -10px; */
+}
+
+.photographer {
+  display: flex;
+  align-items: flex-start;
+  margin: 12px 142px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.right,
+.left {
+  width: 90px;
+  padding-top: 80px;
+}
+
+.name {
+  font-size: 15px;
+  font-weight: bold;
+}
+.price {
+  font-size: 15px;
+  color: gray;
+}
+.cliked {
+  background-color: #ffffff;
+  padding: 20px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}

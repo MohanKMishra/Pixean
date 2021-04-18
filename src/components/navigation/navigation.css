@@ -1,0 +1,8 @@
+.nav_image {
+  height: 34px;
+}
+.btn-sm {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  border-radius: 25px;
+}

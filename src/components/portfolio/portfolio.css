@@ -1,0 +1,59 @@
+.bttn {
+  border-radius: 50px;
+  width: 150px;
+  margin-top: -20px;
+}
+.wal_wrapper {
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+}
+.dark_matter {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: black;
+
+  height: 100%;
+  width: 100%;
+  opacity: 0.55;
+}
+.wallpaper {
+  width: 100%;
+  height: auto;
+  min-height: 300px;
+}
+
+.col-md-7 {
+  margin-top: 20px;
+}
+.btn-superdeaactive {
+  color: gray;
+}
+.title1 {
+  display: flex;
+  align-items: flex-start;
+  font-weight: bold;
+  margin-left: -18px;
+}
+.title2 {
+  display: flex;
+  align-items: flex-start;
+  color: silver;
+  font-size: 15px;
+  margin-left: -18px;
+}
+/* .option {
+    color: gray;
+    display: flex;
+    align-items: flex-start;
+    width: 900px;
+    font-size: 18px;
+    margin-left: -18px;
+  
+  }
+  .option span {
+    color: black;
+    font-weight: bold;
+    margin-right:10px ;
+  } */
